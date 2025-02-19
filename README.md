@@ -5,11 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizantonio.souza_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-souza-5000a226b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luixz157)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuixzSouza)
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luixz157&show_icons=true&theme=dracula)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuixzSouza&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luixz157&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuixzSouza&layout=compact&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
