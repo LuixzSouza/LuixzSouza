@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Luiz Antônio de Souza ✌️.<br/>
 
+<img align="center" alt="CoverSiteLuiz" src="https://media.licdn.com/dms/image/v2/D4D22AQE1DGI5QIV7Yw/feedshare-shrink_2048_1536/B4DZSs2sKdHkAs-/0/1738066805629?e=1746662400&v=beta&t=Cru6Ov_nqeuNzDVFu1OVBHCmXClM0oOPXih2zZOLAk4" />
+
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.luixzsouza.com.br)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizantonio.souza_/)
