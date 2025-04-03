@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Antônio de Souza ✌️.<br/>
 
-<img align="center" alt="CoverSiteLuiz" src="https://media.licdn.com/dms/image/v2/D4D22AQE1DGI5QIV7Yw/feedshare-shrink_2048_1536/B4DZSs2sKdHkAs-/0/1738066805629?e=1746662400&v=beta&t=Cru6Ov_nqeuNzDVFu1OVBHCmXClM0oOPXih2zZOLAk4" />
+<img align="center" alt="CoverSiteLuiz" src="https://media.licdn.com/dms/image/v2/D4D16AQEIO3eyonPZ_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737650106418?e=1749081600&v=beta&t=VfzA6R0qZp5cuhx5DAVshRR0kXOuuG2QwOKCdoBcHiU" />
 
 **Portifólio:**
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.luixzsouza.com.br)
