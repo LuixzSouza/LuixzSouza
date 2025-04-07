@@ -52,3 +52,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, desafios e por mudar a vida das pessoas através da programação.
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuixzSouza}/count.svg" /></p> 
